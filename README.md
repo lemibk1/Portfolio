@@ -6,7 +6,7 @@ The main program i used in this project is vs code and using of linters
 ## Key Features
 Responsive skeleton for desktop and mobile 
 ## Live Demo
-[Live Demo]( https://lemibk.github.io/Frist/)
+[Live Demo](https://lemibk1.github.io/Portfolio/)
 
 ## Getting Started
 You can also create your own using the live demo and the following softwares
